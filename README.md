@@ -17,4 +17,4 @@ Collections of links to favorite fonts
 
 [Hind](https://fonts.google.com/specimen/Hind) `headlines` `body`
 
-
+[Krala](https://fonts.google.com/specimen/Karla) `body`
