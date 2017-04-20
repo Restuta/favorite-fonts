@@ -10,4 +10,6 @@ Collections of links to favorite fonts
 ### Individual Fonts
 
 [Alfa Slab One](https://fonts.google.com/specimen/Alfa+Slab+One)
+Montserrat
+
 
