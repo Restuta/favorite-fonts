@@ -15,4 +15,6 @@ Collections of links to favorite fonts
 
 [Montserrat](https://fonts.google.com/specimen/Montserrat) `headlines`
 
+[Hind](https://fonts.google.com/specimen/Hind) `headlines` `body`
+
 
