@@ -1,4 +1,4 @@
-# favorite-fonts
+# Favorite Fonts
 Collections of links to favorite fonts
 
 ## Google Fonts
