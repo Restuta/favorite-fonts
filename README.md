@@ -18,3 +18,7 @@ Collections of links to favorite fonts
 [Hind](https://fonts.google.com/specimen/Hind) `headlines` `body`
 
 [Krala](https://fonts.google.com/specimen/Karla) `body`
+
+### Typekit
+
+[Museo Sans + Museo + Museo Display](https://typekit.com/fonts/museo-sans) `body` `headlines`
