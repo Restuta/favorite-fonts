@@ -9,6 +9,8 @@ Collections of links to favorite fonts
 
 [Alegreya + Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 
+[Libre Franklin + Libre Baskerville](https://fonts.google.com/specimen/Libre+Franklin)
+
 ### Individual Fonts
 
 [Alfa Slab One](https://fonts.google.com/specimen/Alfa+Slab+One) `headlines`
