@@ -10,6 +10,7 @@ Collections of links to favorite fonts
 [Alegreya + Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 
 [Libre Franklin + Libre Baskerville](https://fonts.google.com/specimen/Libre+Franklin)
+
 [Martel + Work Sans](https://sidewaysdictionary.com/#/about)
 
 ### Individual Fonts
