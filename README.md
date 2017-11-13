@@ -22,6 +22,7 @@ Collections of links to favorite fonts
 [Hind](https://fonts.google.com/specimen/Hind) `headlines` `body`
 
 [Krala](https://fonts.google.com/specimen/Karla) `body`
+
 [Inter UI](https://rsms.me/inter/) - specifically designed for user interfaces `ui`
 
 ### Typekit
