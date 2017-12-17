@@ -24,6 +24,7 @@ Collections of links to favorite fonts
 [Krala](https://fonts.google.com/specimen/Karla) `body`
 
 [Inter UI](https://rsms.me/inter/) - specifically designed for user interfaces `ui`
+[Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed) - similar to Oswald
 
 ### Typekit
 
