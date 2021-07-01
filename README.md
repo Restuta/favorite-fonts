@@ -3,8 +3,11 @@ Collections of links to favorite fonts
 
 ## Coding Fonts
 https://www.monolisa.dev/
+
 https://github.com/microsoft/cascadia-code
+
 https://philpl.gumroad.com/l/dank-mono
+
 https://www.typography.com/fonts/operator/styles
 
 ## Google Fonts
