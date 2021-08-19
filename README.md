@@ -35,6 +35,8 @@ https://www.typography.com/fonts/operator/styles
 [Inter UI](https://rsms.me/inter/) - specifically designed for user interfaces `ui`
 [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed) - similar to Oswald
 
+[Satisfy](https://fonts.google.com/specimen/Satisfy) - good hand written style
+
 ### Typekit
 
 [Museo Sans + Museo + Museo Display](https://typekit.com/fonts/museo-sans) `body` `headlines`
