@@ -41,6 +41,7 @@ https://www.typography.com/fonts/operator/styles
 [Vollkorn](Restuta/ds-letters) - good serif font for body.
 
 [Satisfy](https://fonts.google.com/specimen/Satisfy) - good hand written style
+[Jost](https://fonts.google.com/specimen/Jost) - feels like Futura
 
 ### Typekit
 
